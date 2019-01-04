@@ -6,4 +6,4 @@ Nieuwe regel toegevoetd
 
 versie uit updates
 
-versie uit very-bad
+dit is bijgewerkt in versie very-bad
